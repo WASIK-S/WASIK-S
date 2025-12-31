@@ -9,18 +9,25 @@ Ethical Hacker | Network Security Specialist | CCNA + CCNP in Progress | Hardwar
 - Specialization: Ethical Hacking & Penetration Testing
 - Current Study: CCNA, CCNP, Cisco Security Certifications
 - Focus Areas: Network Security, System Hardening, Vulnerability Assessment
-- Platform: Microsoft Windows Server, Network Infrastructure
+- Platforms: Microsoft Windows Server, Linux System Administration
 - Location: Trichy, Tamil Nadu
 - Available For: Cybersecurity projects, penetration testing, network security consulting
 
 ---
 
-## Current Certifications & Training
+## Certifications & Professional Training
 
-- CCNA (Cisco Certified Network Associate) - In Progress
-- CCNP (Cisco Certified Network Professional) - In Progress
-- Cisco Security Certification - In Progress
+Certified Courses:
+- Technical Support Fundamentals - Google (Coursera)
+- Foundations of Cybersecurity - Google (Coursera)
 - Ethical Hacking Training - SysTech Institute
+
+In Progress Certifications:
+- CCNA (Cisco Certified Network Associate)
+- CCNP (Cisco Certified Network Professional)
+- Cisco Security Certification
+
+Other Credentials:
 - Hardware & Networking Specialist
 
 ---
@@ -45,6 +52,7 @@ Ethical Hacker | Network Security Specialist | CCNA + CCNP in Progress | Hardwar
 - Security Protocol Implementation
 - Firewall Configuration
 - VPN & Remote Access Setup
+- Network Packet Analysis
 
 ### Cybersecurity
 - Penetration Testing Fundamentals
@@ -56,14 +64,18 @@ Ethical Hacker | Network Security Specialist | CCNA + CCNP in Progress | Hardwar
 - Access Control & Authentication
 
 ### Operating Systems
-- Microsoft Windows Server
+- Microsoft Windows Server Administration
 - Windows Desktop Administration
 - System Security Configuration
 - User & Permission Management
+- Linux System Administration
+- Linux Security Configuration
+- Linux Command Line Interface
+- File & Permission Management on Linux
 
 ### Certifications Track
 - Cisco Certified Associate (CCNA)
-- Cisco Certified Professional (CCNP)
+- Cisco Certified Network Professional (CCNP)
 - Cisco Security Specialization
 
 ---
@@ -73,6 +85,7 @@ Ethical Hacker | Network Security Specialist | CCNA + CCNP in Progress | Hardwar
 - Currently Pursuing: Advanced Cisco certifications (CCNA, CCNP)
 - Focus Areas: Penetration testing techniques, advanced network security
 - Training Institute: SysTech, Trichy
+- Google Coursera Certified in: Technical Support Fundamentals, Foundations of Cybersecurity
 - Goal: Complete CCNP and Cisco Security certifications
 
 ---
