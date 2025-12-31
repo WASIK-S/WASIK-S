@@ -1,88 +1,101 @@
-# 🚀 Hey there! I'm Syed Ahamed Wasik S
+# Hey there! I'm Syed Ahamed Wasik S
 
-A passionate **Machine Learning Engineer**, **Cybersecurity Enthusiast**, and **Python Developer** dedicated to building intelligent security solutions. I specialize in phishing detection systems and machine learning-based security applications.
-
----
-
-## 🎯 About Me
-
-- 🔐 **Specialization**: Phishing Detection & Cybersecurity Machine Learning
-- 💻 **Tech Stack**: Python, Scikit-learn, XGBoost, TensorFlow
-- 🧠 **Interests**: ML Engineering, Data Science, Security Analysis
-- 📊 **Current Focus**: Building robust phishing detection models with ML
-- ✨ **Available For**: Freelance projects, collaborations, and full-time opportunities
+Ethical Hacker | Network Security Specialist | CCNA + CCNP in Progress | Hardware & Networking Professional. Pursuing advanced cybersecurity and ethical hacking certifications at SysTech, Trichy Tamil Nadu.
 
 ---
 
-## 💼 Featured Projects
+## About Me
 
-### 🎯 Phishing Website Detection
-- **Repository**: [phishing_detection](https://github.com/WASIK-S/phishing_detection)
-- **Description**: Advanced ML-based system detecting phishing websites and classifying attack types
-- **Technologies**: Python, Random Forest, XGBoost, Tkinter GUI
-- **Features**:
-  - URL-based phishing classification (Phishing vs. Legitimate)
-  - Attack type identification (Credential Phishing, Brand Impersonation, etc.)
-  - Real-time analysis with GUI interface
-  - Offline batch prediction support
+- Specialization: Ethical Hacking & Penetration Testing
+- Current Study: CCNA, CCNP, Cisco Security Certifications
+- Focus Areas: Network Security, System Hardening, Vulnerability Assessment
+- Platform: Microsoft Windows Server, Network Infrastructure
+- Location: Trichy, Tamil Nadu
+- Available For: Cybersecurity projects, penetration testing, network security consulting
 
 ---
 
-## 🛠️ Technical Skills
+## Current Certifications & Training
 
-### Languages & Frameworks
-- **Python** (Expert) - Data Science, ML, Web Development
-- **Machine Learning** - Scikit-learn, XGBoost, Random Forest, Logistic Regression
-- **Data Analysis** - Pandas, NumPy, Matplotlib, Seaborn
-- **GUI Development** - Tkinter
-- **Web Technologies** - HTML, CSS, JavaScript
-
-### Core Competencies
-- Machine Learning Model Development
-- Feature Engineering & Data Preprocessing
-- Security Analysis & Threat Detection
-- Performance Optimization
-- Model Evaluation & Validation
+- CCNA (Cisco Certified Network Associate) - In Progress
+- CCNP (Cisco Certified Network Professional) - In Progress
+- Cisco Security Certification - In Progress
+- Ethical Hacking Training - SysTech Institute
+- Hardware & Networking Specialist
 
 ---
 
-## 📈 GitHub Statistics
+## Featured Projects
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WASIK-S&show_icons=true&theme=dark&count_private=true)](https://github.com/WASIK-S)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WASIK-S&layout=compact&theme=dark)](https://github.com/WASIK-S)
-
----
-
-## 🎓 Learning & Growth
-
-- Currently working on: Advanced deep learning models for cybersecurity
-- Learning: TensorFlow, Advanced NLP, Cloud deployment (AWS/GCP)
-- Interested in: Security research, MLOps, System design
+### Phishing Website Detection
+- Repository: phishing_detection
+- Description: Security-focused project demonstrating URL analysis and threat detection techniques
+- Technologies: Python, Security Analysis
+- Purpose: Educational project for understanding attack vectors and detection mechanisms
 
 ---
 
-## 📞 Get In Touch
+## Technical Skills
 
-- 📧 **Email**: [syedwasik17@gmail.com](mailto:syedwasik17@gmail.com)
-- 💼 **GitHub**: [@WASIK-S](https://github.com/WASIK-S)
-- 🔗 **Available for hire** - Open to exciting opportunities!
+### Networking & Security
+- Network Administration & Configuration
+- Cisco Networking (CCNA/CCNP Level)
+- Windows Server Administration
+- Network Troubleshooting & Diagnostics
+- Security Protocol Implementation
+- Firewall Configuration
+- VPN & Remote Access Setup
+
+### Cybersecurity
+- Penetration Testing Fundamentals
+- Vulnerability Assessment & Analysis
+- Network Packet Analysis
+- System Hardening
+- Security Auditing
+- Threat Detection & Response
+- Access Control & Authentication
+
+### Operating Systems
+- Microsoft Windows Server
+- Windows Desktop Administration
+- System Security Configuration
+- User & Permission Management
+
+### Certifications Track
+- Cisco Certified Associate (CCNA)
+- Cisco Certified Professional (CCNP)
+- Cisco Security Specialization
 
 ---
 
-## 🙌 Let's Collaborate!
+## Learning & Development
+
+- Currently Pursuing: Advanced Cisco certifications (CCNA, CCNP)
+- Focus Areas: Penetration testing techniques, advanced network security
+- Training Institute: SysTech, Trichy
+- Goal: Complete CCNP and Cisco Security certifications
+
+---
+
+## Get In Touch
+
+- Email: syedwasik17@gmail.com
+- GitHub: @WASIK-S
+- Available for hire - Open to cybersecurity opportunities
+
+---
+
+## Let's Connect!
 
 I'm interested in:
-- ✅ Freelance ML/Security projects
-- ✅ Open-source contributions
-- ✅ Research collaborations
-- ✅ Full-time or contract positions
+- Penetration testing and vulnerability assessment projects
+- Network security consulting
+- Cybersecurity research and collaboration
+- Full-time cybersecurity positions
+- Internship opportunities in ethical hacking
 
-**Feel free to reach out!** I love working on challenging problems and contributing to innovative projects.
+Feel free to reach out! I'm passionate about cybersecurity and eager to work on challenging security projects.
 
 ---
 
-<div align="center">
-  <p>⭐ If you find my work interesting, consider starring my repositories!</p>
-  <p>Made with ❤️ by Syed Ahamed Wasik S</p>
-</div>
+Made with commitment to cybersecurity by Syed Ahamed Wasik S
