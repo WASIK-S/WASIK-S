@@ -16,10 +16,9 @@ Certified Courses:
 - Foundations of Cybersecurity - Google (Coursera)
 - Ethical Hacking Training - SysTech Institute
 In Progress Certifications:
-- CCNA (Cisco Certified Network Associate)
-- CCNP (Cisco Certified Network Professional)
+- CCNA - SysTech Institute
 - Cisco Security Certification
-- Blue Team Certification
+- Blue Teamer Certification
 - InfoSec Lab - SOC L1 Analyst
 Other Credentials:
 - Hardware & Networking Specialist
